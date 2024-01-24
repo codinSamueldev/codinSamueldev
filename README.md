@@ -1,4 +1,4 @@
-Hi 👋 My name is Samuel
+Hi 👋 this is Samuel
 =======================
 
 I am full-stack web developer
