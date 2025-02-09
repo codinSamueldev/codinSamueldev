@@ -4,9 +4,10 @@ Hi 👋 this is Samuel
 I am full-stack web developer
 -----------------------------
 
-And I love all of the large variety of tastes of tech, from web development to IoT, Robotics, and perhaps Rocket science (who knows). Just so you know me a bit, my long-term goal in life is to be like Tony Stark (Ironman but with the good stuff), cool guy who creates solutions with technology, and every single day I make sure to walk towards that goal even though I may not reach that level, but that is okay I just want to be as close of that goal as I can.
+💻 I build scalable web apps for businesses & startups
+📩 Let’s create your next project! DM me
 
-* 🌍  I'm based in Risaralda, Colombia
+* 🌍  I'm based in Colombia
 * ✉️  You can contact me at [codinsamueldev@gmail.com](mailto:codinsamueldev@gmail.com)
 * 🧠  I'm learning React
 * ⚡  I can imitate Donald Duck's voice 😅
