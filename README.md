@@ -4,7 +4,7 @@ Hi 👋 this is Samuel
 I am full-stack web developer
 -----------------------------
 
-💡 I specialize in building scalable web applications using Python, Django, FastAPI, React, and some JavaScript. My focus is on creating efficient, high-performance solutions that solve real-world problems.
+💡 I specialize in building scalable web applications using Python, Django, FastAPI, and some JavaScript. My focus is on creating efficient, high-performance solutions that solve real-world problems.
 
 🔹 What I Do:
 
