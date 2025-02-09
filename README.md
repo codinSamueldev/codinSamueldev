@@ -4,13 +4,18 @@ Hi 👋 this is Samuel
 I am full-stack web developer
 -----------------------------
 
-💻 I build scalable web apps for businesses & startups
-📩 Let’s create your next project! DM me
+💡 I specialize in building scalable web applications using Python, Django, FastAPI, React, and some JavaScript. My focus is on creating efficient, high-performance solutions that solve real-world problems.
 
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [codinsamueldev@gmail.com](mailto:codinsamueldev@gmail.com)
-* 🧠  I'm learning React
-* ⚡  I can imitate Donald Duck's voice 😅
+🔹 What I Do:
+
+✅ Develop custom web apps for businesses & startup   
+✅ Build REST APIs with Django & FastAPI    
+✅ Create responsive, modern front-end interfaces with React   
+
+✉️  You can contact me at [codinsamueldev@gmail.com](mailto:codinsamueldev@gmail.com)    
+🌍  I'm based in Colombia
+
+
 
 ### Skills
 
